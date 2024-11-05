@@ -1,27 +1,13 @@
 <script setup lang="ts">
-import SectionTemplate from '@/components/SectionTemplate.vue';
-import ProfileSection from '@/components/Profile/ProfileSection.vue';
-import AlbumLayout from '@/components/Albums/AlbumLayout.vue';
-import HeroTemplate from '@/components/HeroTemplate.vue';
+import TheWelcome from '../components/TheWelcome.vue'
 </script>
 
-<!----------------------------------------------------------------------------->
-
 <template>
-	<main class="container py-5">
-		<HeroTemplate />
+  <header></header>
 
-		<SectionTemplate>
-			<ProfileSection name="Parker Piedmont"
-				title="Composer, Producer, Programmer - Seattle" />
-		</SectionTemplate>
+  <main>
+    <TheWelcome />
+  </main>
 
-		<SectionTemplate name="Evolvy Bugs"> </SectionTemplate>
-
-		<SectionTemplate name="Contact"></SectionTemplate>
-	</main>
+  <footer></footer>
 </template>
-
-<!----------------------------------------------------------------------------->
-
-<style scoped lang="scss"></style>
