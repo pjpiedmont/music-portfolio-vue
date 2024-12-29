@@ -1,0 +1,95 @@
+{
+  "albums": [
+    {
+      "title": "New Album Incoming!",
+      "albumArt": "./src/assets/images/unnamed_album.png",
+      "tracks": [
+        {
+          "name": "Track 1",
+          "path": "./src/assets/audio/albums/unnamed/01 underflow.mp3"
+        },
+        {
+          "name": "Track 2",
+          "path": "./src/assets/audio/albums/unnamed/02 mr biebbobb.mp3"
+        },
+        {
+          "name": "Track 3",
+          "path": "./src/assets/audio/albums/unnamed/03 7 8.mp3"
+        },
+        {
+          "name": "Track 4",
+          "path": "./src/assets/audio/albums/unnamed/04 aqueous lofi.mp3"
+        },
+        {
+          "name": "Track 5",
+          "path": "./src/assets/audio/albums/unnamed/05 outatime.mp3"
+        },
+        {
+          "name": "Track 6",
+          "path": "./src/assets/audio/albums/unnamed/06 the wanderer.mp3"
+        },
+        {
+          "name": "Track 7",
+          "path": "./src/assets/audio/albums/unnamed/07 light the way.mp3"
+        }
+      ]
+    },
+    {
+      "title": "Solace and Respite",
+      "albumArt": null,
+      "tracks": [
+        {
+          "name": "Saturday Snowfall",
+          "path": "./src/assets/audio/albums/Solace and Respite/dad 01.01.mp3"
+        }
+      ]
+    },
+    {
+      "title": "Evolvy Bugs",
+      "albumArt": "./src/assets/images/EvolvyBugs.png",
+      "tracks": [
+        {
+          "name": "Evolvy Bugs",
+          "path": "./src/assets/audio/albums/Evolvy Bugs/01 Evolvy Bugs.mp3"
+        },
+        {
+          "name": "Embarkation",
+          "path": "./src/assets/audio/albums/Evolvy Bugs/02 Embarkation.mp3"
+        },
+        {
+          "name": "Asteroid Belt",
+          "path": "./src/assets/audio/albums/Evolvy Bugs/03 Asteroid Belt.mp3"
+        },
+        {
+          "name": "Information Overload",
+          "path": "./src/assets/audio/albums/Evolvy Bugs/04 Information Overload.mp3"
+        },
+        {
+          "name": "Cosmic Jungle",
+          "path": "./src/assets/audio/albums/Evolvy Bugs/05 Cosmic Jungle.mp3"
+        },
+        {
+          "name": "Tail of a Comet",
+          "path": "./src/assets/audio/albums/Evolvy Bugs/06 Tail of a Comet.mp3"
+        },
+        {
+          "name": "For Science",
+          "path": "./src/assets/audio/albums/Evolvy Bugs/07 For Science.mp3"
+        },
+        {
+          "name": "Mechanized Ruins",
+          "path": "./src/assets/audio/albums/Evolvy Bugs/08 Mechanized Ruins.mp3"
+        },
+        {
+          "name": "Entrails",
+          "path": "./src/assets/audio/albums/Evolvy Bugs/09 Entrails.mp3"
+        },
+        {
+          "name": "Evolution Always Wins",
+          "path": "./src/assets/audio/albums/Evolvy Bugs/10 Evolution Always Wins.mp3"
+        }
+      ]
+    }
+  ],
+  "singles": []
+}

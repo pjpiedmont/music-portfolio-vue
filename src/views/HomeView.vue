@@ -1,13 +1,21 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
+import Hero from '@/components/Hero.vue';
 </script>
 
+<!----------------------------------------------------------------------------->
+
 <template>
-  <header></header>
+  <header>
+    <Hero />
+  </header>
 
   <main>
-    <TheWelcome />
+    <!-- <TheWelcome /> -->
   </main>
 
   <footer></footer>
 </template>
+
+<!----------------------------------------------------------------------------->
+
+<style lang="scss" scoped></style>
